@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: SO+
+subtitle: subtitles
+description: descripton
 author: John Doe
-language:
+language: zh-cn
 timezone:
 
 # URL
@@ -28,13 +28,13 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year-:month-:day-:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: false #资源文件夹 asset folder 
 relative_link: false
 future: true
 highlight:
@@ -62,7 +62,7 @@ tag_map:
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
-time_format: HH:mm:ss
+time_format: HH:mm:ssss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -73,6 +73,11 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: bubuzou
+
+# search
+search:
+  path: search.xml
+  field: post
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

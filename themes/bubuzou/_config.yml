@@ -1,8 +1,9 @@
 menu:
     博文: /
     归档: /archives/
+    工具: /categories/utils/
+    开发: /categories/dev/
     生活: /categories/live/
-    摄影: /categories/film/
     关于: /about/
 
 widgets:
