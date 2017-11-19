@@ -766,11 +766,11 @@ footer .copyright a:hover { color: #666; }
     display: block;
     width: 34px;
     height: 34px;
-    background: url(../images/totop.png) no-repeat top center;
+    background: url(../images/totop.png) no-repeat bottom center;
     background-size: 34px 68px;
 }
 
-.totop:hover i { background-position: bottom center; }
+.totop:hover i { background-position: top center; }
 
 .right-container {
     position: fixed;
@@ -963,7 +963,7 @@ footer .copyright a:hover { color: #666; }
 .widget { margin-bottom: 30px; }
 
 .widget h4 {
-    color: #0086b3;
+    color: #0e83cd;
     margin: 10px 0;
     font-family: '微软雅黑';
 }
@@ -1075,7 +1075,7 @@ footer .copyright a:hover { color: #666; }
     text-overflow: ellipsis;
 }
 
-.arCatalog-list dd.on a { color: #0366d6; }
+.arCatalog-list dd.on a { color: #0e83cd; }
 
 .arCatalog-list .arCatalog-tack1 .arCatalog-index {
     position: absolute;
@@ -1095,11 +1095,13 @@ footer .copyright a:hover { color: #666; }
 
 .arCatalog-list dd.on .arCatalog-dot {
     position: absolute;
-    left: -27px;
-    top: 6px;
-    width: 16px;
-    height: 16px;
-    background: url(../images/icon_doton.jpg) no-repeat left center;
+    background: #0e83cd;
+    border-radius: 5px;
+    left: -24px;
+    top: 9px;
+    width: 10px;
+    height: 10px;
+    /* background: url(../images/icon_doton.jpg) no-repeat left center; */
 }
 
 .arCatalog-list .arCatalog-tack2 { padding-left: 17px; }
