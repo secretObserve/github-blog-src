@@ -1,5 +1,21 @@
+menu:
+  archives: archives
+  home: home
+  utils: utils
+  code: code
+  knowledge: knowledge
+  life: life
+  about: about
+
+category: CATEGORY
+tag: TAG
+
 prev: PREV
 next: NEXT
 prev_post: PREV
 next_post: NEXT
 more: ...more
+
+search: SEARCH
+
+recent-post: RECENT POST

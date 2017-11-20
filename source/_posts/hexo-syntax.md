@@ -2,10 +2,10 @@
 ---
 title: hexo入门与基础语法
 date: 2017-01-01
-tags: 
-- dev
-- utils
 categories: utils
+tags: 
+- hexo
+- blog
 ---
 介绍Hexo的安装和使用基础，适合新入坑的小白
 给大家介绍下，这是我老婆@wonder woman :D

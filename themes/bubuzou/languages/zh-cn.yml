@@ -1,5 +1,21 @@
+menu:
+  archives: 归档
+  home: 博文
+  utils: 工具
+  code: 开发
+  knowledge: 见闻
+  life: 生活
+  about: 关于我
+
+category: 分类
+tag: 标签
+
 prev: 上一页
 next: 下一页
 prev_post: 上一篇
 next_post: 下一篇
 more: ...阅读全文
+
+search: 搜索
+
+recent-post: 最近文章

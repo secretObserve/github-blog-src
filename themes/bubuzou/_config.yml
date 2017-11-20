@@ -1,10 +1,11 @@
 menu:
-    博文: /
-    归档: /archives/
-    工具: /categories/utils/
-    开发: /categories/dev/
-    生活: /categories/live/
-    关于: /about/
+    home: /
+    archives: /archives/
+    utils: /categories/utils/
+    code: /categories/code/
+    knowledge: /categories/knowledge/
+    life: /categories/life/
+    about: /about/
 
 widgets:
 - category
