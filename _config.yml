@@ -8,7 +8,7 @@ subtitle: subtitles
 description: descripton
 author: SO
 language: 
-  # - zh-cn
+  - zh-cn
   - en
 timezone:
 
